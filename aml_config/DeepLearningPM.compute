@@ -1,0 +1,7 @@
+address: 52.170.2.246
+baseDockerImage: microsoft/mmlspark:plus-0.9.9
+nativeSharedDirectory: ~/.azureml/share/
+password: AzureMlSecret=DeepLearningPM#lazzeri#e3813f131cb84147850f5b1aee3dc687
+sharedVolumes: true
+type: remotedocker
+username: lazzeri

@@ -1,0 +1,5 @@
+address: walmartiotspark2-ssh.azurehdinsight.net
+password: AzureMlSecret=hdwalmart#sshuser#09d7b2956d3541fdb3389317ccc09622
+type: cluster
+username: sshuser
+yarnDeployMode: cluster
